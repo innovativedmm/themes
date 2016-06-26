@@ -24,7 +24,7 @@
 
 .titlebox h1.redditname a::before {
     font-size: 20px;
-    content:"Pramila Jayapal";
+    content:"Candidate name goes here";
 }
 /*END SUBREDDIT NAME*/
 
@@ -33,7 +33,7 @@
     display: none
     }
  .titlebox .number:after {
-    content: " Pramila supporters";
+    content: " Candidate name supporters";
     }
 .titlebox .users-online span.number:after {
     content: " supporters here now";
